@@ -1,0 +1,15 @@
+.data-form {
+
+  .toolbar {
+    position: relative;
+    float: left;
+    .loader {
+      position: absolute;
+      top: 8%;
+      right: -55%;
+      img {
+        height: 27px;
+      }
+    }
+  }
+}
